@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\ICUI4CU\Android\NDK\SerialAPI-AS\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="D:\Users\ICUI4CU\Android\NDK\SerialAPI-AS\build\intermediates\pre-dexed\debug\android-support-v4_d47b6fd0107325cdb41e476b807d54ac975f3dcc.jar" />
+    </item>
+
+</items>
